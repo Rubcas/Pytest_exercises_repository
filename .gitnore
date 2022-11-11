@@ -1,0 +1,3 @@
+*testenv
+*pytest_cache
+*.gitnore
